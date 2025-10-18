@@ -1,0 +1,1 @@
+I aim to upload some pricing algos which would cover most of the popular derivaties product. Please keep in mind that these files are quiet vanilla since the target audience are students who are interested in learning financial computation.
